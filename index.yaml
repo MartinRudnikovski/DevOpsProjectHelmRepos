@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  backend:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-02-05T15:53:01.5100106+01:00"
+    description: A Helm chart for Kubernetes
+    digest: a736e1a885ac0aa2268aa2960c366b8b709ce9678450d5960f73d26de3bdf286
+    name: backend
+    type: application
+    urls:
+    - https://MartinRudnokovski.github.io/DevOpsProjectHelmRepos/backend-0.1.0.tgz
+    version: 0.1.0
+  frontend:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-02-05T15:53:01.5100106+01:00"
+    description: A Helm chart for frontend.
+    digest: b5431616afeb52a96c16600826fcf76e5f5f4419c0944860722bcc1f3841c0d5
+    name: frontend
+    type: application
+    urls:
+    - https://MartinRudnokovski.github.io/DevOpsProjectHelmRepos/frontend-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-02-05T15:53:01.5094396+01:00"
