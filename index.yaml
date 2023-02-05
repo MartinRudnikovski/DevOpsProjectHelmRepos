@@ -9,7 +9,7 @@ entries:
     name: backend
     type: application
     urls:
-    - https://MartinRudnokovski.github.io/DevOpsProjectHelmRepos/backend-0.1.0.tgz
+    - https://MartinRudnikovski.github.io/DevOpsProjectHelmRepos/backend-0.1.0.tgz
     version: 0.1.0
   frontend:
   - apiVersion: v2
@@ -20,6 +20,6 @@ entries:
     name: frontend
     type: application
     urls:
-    - https://MartinRudnokovski.github.io/DevOpsProjectHelmRepos/frontend-0.1.0.tgz
+    - https://MartinRudnikovski.github.io/DevOpsProjectHelmRepos/frontend-0.1.0.tgz
     version: 0.1.0
 generated: "2023-02-05T15:53:01.5094396+01:00"
